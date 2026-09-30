@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-09-30T22:36:54.641Z",
+ "updatedAt": "2026-09-30T22:37:06.405Z",
  "gantts": {
   "g_gqor970ve1": {
    "id": "g_gqor970ve1",
@@ -9,7 +9,7 @@
    "subtitle": "Discovery & Interactive Map",
    "logo": null,
    "createdAt": "2026-09-29T12:13:27.913Z",
-   "updatedAt": "2026-09-29T20:37:18.702Z",
+   "updatedAt": "2026-09-30T22:37:03.903Z",
    "settings": {
     "usePhases": true,
     "phases": [
@@ -325,8 +325,8 @@
      "phase": "2. Interactive Map Structure",
      "task": "2.1 Content Architecture & Functional Wireframe",
      "status": "Not started",
-     "start": "2026-09-15",
-     "end": "2026-09-27",
+     "start": "2026-09-16",
+     "end": "2026-09-28",
      "responsible": "GA-DA",
      "notes": "Map: content breakdown, UX/UI functional layout & wireframing.",
      "color": "#e05c8a"
@@ -336,8 +336,8 @@
      "phase": "2. Interactive Map Structure",
      "task": "2.2 Wireframe Review & Functional Validation",
      "status": "Not started",
-     "start": "2026-09-28",
-     "end": "2026-09-30",
+     "start": "2026-09-29",
+     "end": "2026-10-01",
      "responsible": "Medison",
      "notes": "Client Review: Review and validate map structure & wireframe logic.",
      "color": "#e05c8a"
@@ -347,8 +347,8 @@
      "phase": "2. Interactive Map Structure",
      "task": "2.3 Wireframe Revisions & Updates",
      "status": "Not started",
-     "start": "2026-10-04",
-     "end": "2026-10-07",
+     "start": "2026-10-05",
+     "end": "2026-10-08",
      "responsible": "GA-DA",
      "notes": "Adjust wireframe and content mapping based on feedback.",
      "color": "#e05c8a"
@@ -358,8 +358,8 @@
      "phase": "2. Interactive Map Structure",
      "task": "2.4 Wireframe Gate Approval",
      "status": "Not started",
-     "start": "2026-10-05",
-     "end": "2026-10-06",
+     "start": "2026-10-06",
+     "end": "2026-10-07",
      "responsible": "Medison",
      "notes": "Client Approval: Final sign-off on map structure & functional wireframe.",
      "color": "#e05c8a"
@@ -369,8 +369,8 @@
      "phase": "3. UI Design & Prototyping",
      "task": "3.1 Visual Design & Clickable Mockup",
      "status": "Not started",
-     "start": "2026-10-07",
-     "end": "2026-10-14",
+     "start": "2026-10-08",
+     "end": "2026-10-15",
      "responsible": "GA-DA",
      "notes": "Apply brand guidelines, UI visual design & build clickable mockup.",
      "color": "#1aa6a6"
@@ -380,8 +380,8 @@
      "phase": "3. UI Design & Prototyping",
      "task": "3.2 Mockup Design Review & Validation",
      "status": "Not started",
-     "start": "2026-10-18",
-     "end": "2026-10-23",
+     "start": "2026-10-19",
+     "end": "2026-10-24",
      "responsible": "Medison",
      "notes": "Client Review: Review visual design and test interactive mockup flow.",
      "color": "#1aa6a6"
@@ -391,8 +391,8 @@
      "phase": "3. UI Design & Prototyping",
      "task": "3.3 Mockup Design Revisions & Updates",
      "status": "Not started",
-     "start": "2026-10-21",
-     "end": "2026-10-25",
+     "start": "2026-10-22",
+     "end": "2026-10-26",
      "responsible": "GA-DA",
      "notes": "Implement UI design adjustments and interactive fixes.",
      "color": "#1aa6a6"
@@ -402,8 +402,8 @@
      "phase": "3. UI Design & Prototyping",
      "task": "3.4 Mockup Gate Approval",
      "status": "Not started",
-     "start": "2026-10-26",
-     "end": "2026-10-27",
+     "start": "2026-10-27",
+     "end": "2026-10-28",
      "responsible": "Medison",
      "notes": "Client Approval: Final sign-off on visual UI & interactive prototype.",
      "color": "#1aa6a6"
@@ -413,8 +413,8 @@
      "phase": "4. Map Build, Testing & Integration",
      "task": "4.1 Full Production & Admin CMS Build",
      "status": "Not started",
-     "start": "2026-10-28",
-     "end": "2026-11-15",
+     "start": "2026-10-29",
+     "end": "2026-11-16",
      "responsible": "GA-DA",
      "notes": "Interactive build, CMS integration, QA & accessibility checks.",
      "color": "#d4a017"
@@ -424,8 +424,8 @@
      "phase": "4. Map Build, Testing & Integration",
      "task": "4.2 Usability Testing & Focus Groups",
      "status": "Not started",
-     "start": "2026-11-16",
-     "end": "2026-11-19",
+     "start": "2026-11-17",
+     "end": "2026-11-20",
      "responsible": "Medison",
      "notes": "Focus group sessions, collect & analyze user feedback, refinements.",
      "color": "#d4a017"
@@ -435,8 +435,8 @@
      "phase": "4. Map Build, Testing & Integration",
      "task": "4.3 Adjustments & Bug Fixes",
      "status": "Not started",
-     "start": "2026-11-22",
-     "end": "2026-12-01",
+     "start": "2026-11-23",
+     "end": "2026-12-02",
      "responsible": "GA-DA",
      "notes": "Adjust live map & CMS based on feedback.",
      "color": "#d4a017"
@@ -446,8 +446,8 @@
      "phase": "4. Map Build, Testing & Integration",
      "task": "4.4 Client QA Validation & Staging Review",
      "status": "Not started",
-     "start": "2026-11-30",
-     "end": "2026-12-07",
+     "start": "2026-12-01",
+     "end": "2026-12-08",
      "responsible": "Medison",
      "notes": "Client Review: Final testing of live map & CMS in staging environment.",
      "color": "#d4a017"
@@ -457,8 +457,8 @@
      "phase": "4. Map Build, Testing & Integration",
      "task": "4.5 Final Adjustments & Bug Fixes",
      "status": "Not started",
-     "start": "2026-12-08",
-     "end": "2026-12-13",
+     "start": "2026-12-09",
+     "end": "2026-12-14",
      "responsible": "GA-DA",
      "notes": "Resolve staging feedback, content tweaks, and final QA polish.",
      "color": "#d4a017"
@@ -468,8 +468,8 @@
      "phase": "4. Map Build, Testing & Integration",
      "task": "4.6 Final Production Approval & Sign-off",
      "status": "Not started",
-     "start": "2026-12-14",
-     "end": "2026-12-16",
+     "start": "2026-12-15",
+     "end": "2026-12-17",
      "responsible": "Medison",
      "notes": "Client Approval: Formal client sign-off for live deployment.",
      "color": "#d4a017"
