@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-05T15:24:57.869Z",
+ "updatedAt": "2026-10-05T15:25:07.630Z",
  "gantts": {
   "g_gqor970ve1": {
    "id": "g_gqor970ve1",
@@ -650,7 +650,7 @@
    "subtitle": "Discovery & Interactive Map · Revised plan, Oct 2026",
    "logo": null,
    "createdAt": "2026-09-30T22:54:10.783Z",
-   "updatedAt": "2026-10-05T15:24:55.367Z",
+   "updatedAt": "2026-10-05T15:25:05.129Z",
    "settings": {
     "usePhases": true,
     "phases": [
@@ -1287,8 +1287,8 @@
      "phase": "2. Interactive Map Structure",
      "task": "2.7 Wireframe Revisions & Updates — Round 2",
      "status": "Not started",
-     "start": "2026-10-11",
-     "end": "2026-10-13",
+     "start": "2026-10-18",
+     "end": "2026-10-20",
      "responsible": "GA-DA",
      "notes": "",
      "color": "#7a5af8"
@@ -1298,8 +1298,8 @@
      "phase": "2. Interactive Map Structure",
      "task": "2.8 Wireframe Gate Approval",
      "status": "Not started",
-     "start": "2026-10-04",
-     "end": "2026-10-05",
+     "start": "2026-10-21",
+     "end": "2026-10-22",
      "responsible": "Medison / GA-DA",
      "notes": "Client sign-off on map structure & functional wireframe. Visual design starts only after this.",
      "color": "#7a5af8"
@@ -1309,8 +1309,8 @@
      "phase": "3. UI Design & Prototyping",
      "task": "3.1 Visual Design & Clickable Mockup",
      "status": "Not started",
-     "start": "2026-10-11",
-     "end": "2026-10-19",
+     "start": "2026-10-28",
+     "end": "2026-11-05",
      "responsible": "GA-DA",
      "notes": "Full UI on the approved wireframe + clickable mockup. With 3.0a/3.0b: 12 design days in total.",
      "color": "#c45ccf"
@@ -1320,8 +1320,8 @@
      "phase": "3. UI Design & Prototyping",
      "task": "3.2 Mockup Design Review & Validation — Round 1",
      "status": "Not started",
-     "start": "2026-10-25",
-     "end": "2026-10-27",
+     "start": "2026-11-11",
+     "end": "2026-11-13",
      "responsible": "Medison",
      "notes": "Client review: visual design and mockup flow.",
      "color": "#c45ccf"
@@ -1331,8 +1331,8 @@
      "phase": "3. UI Design & Prototyping",
      "task": "3.2a Recruit usability-test participants & book slots",
      "status": "Not started",
-     "start": "2026-10-11",
-     "end": "2026-10-17",
+     "start": "2026-10-28",
+     "end": "2026-11-03",
      "responsible": "Medison",
      "notes": "PARALLEL with 3.1. So testing can start the day the clickable mockup is ready. Number of participants to be agreed.",
      "color": "#c45ccf"
@@ -1342,8 +1342,8 @@
      "phase": "3. UI Design & Prototyping",
      "task": "3.2b Usability Testing on the Clickable Mockup",
      "status": "Not started",
-     "start": "2026-10-25",
-     "end": "2026-10-26",
+     "start": "2026-11-11",
+     "end": "2026-11-12",
      "responsible": "Medison / GA-DA",
      "notes": "MOVED from step 4: test the clickable mockup, not the finished build — findings go into design Round 1 revisions before any code is written. 45-minute individual Zoom sessions, run by Haim.",
      "color": "#c45ccf"
@@ -1353,8 +1353,8 @@
      "phase": "4. Map Build, Testing & Integration",
      "task": "4.0a Dev Setup — architecture, data model, CMS backend",
      "status": "Not started",
-     "start": "2026-10-25",
-     "end": "2026-10-27",
+     "start": "2026-11-11",
+     "end": "2026-11-13",
      "responsible": "GA-DA",
      "notes": "PARALLEL with 3.2: development that does not depend on the visual design. Counts toward the 16 development days.",
      "color": "#e05c8a"
@@ -1364,8 +1364,8 @@
      "phase": "3. UI Design & Prototyping",
      "task": "3.3 Step 3 — Round 1 touch point (design + usability findings)",
      "status": "Not started",
-     "start": "2026-10-25",
-     "end": "2026-10-25",
+     "start": "2026-11-11",
+     "end": "2026-11-11",
      "responsible": "Medison / GA-DA",
      "notes": "One meeting for the client's design comments and the usability findings.",
      "color": "#c45ccf"
@@ -1375,8 +1375,8 @@
      "phase": "3. UI Design & Prototyping",
      "task": "3.4 Mockup Design Revisions & Updates — Round 1",
      "status": "Not started",
-     "start": "2026-11-01",
-     "end": "2026-11-03",
+     "start": "2026-11-18",
+     "end": "2026-11-20",
      "responsible": "GA-DA",
      "notes": "3 days (was 2): includes the usability findings.",
      "color": "#c45ccf"
@@ -1386,8 +1386,8 @@
      "phase": "3. UI Design & Prototyping",
      "task": "3.5 Mockup Design Review & Validation — Round 2",
      "status": "Not started",
-     "start": "2026-11-01",
-     "end": "2026-11-02",
+     "start": "2026-11-18",
+     "end": "2026-11-19",
      "responsible": "Medison",
      "notes": "Round 2 shortened to 2 days: it only checks the Round 1 fixes.",
      "color": "#c45ccf"
@@ -1397,8 +1397,8 @@
      "phase": "4. Map Build, Testing & Integration",
      "task": "4.0b Dev Setup — CMS admin skeleton & map engine",
      "status": "Not started",
-     "start": "2026-11-01",
-     "end": "2026-11-02",
+     "start": "2026-11-18",
+     "end": "2026-11-19",
      "responsible": "GA-DA",
      "notes": "PARALLEL with 3.5. Counts toward the 16 development days.",
      "color": "#e05c8a"
@@ -1408,8 +1408,8 @@
      "phase": "3. UI Design & Prototyping",
      "task": "3.6 Step 3 — Round 2 touch point",
      "status": "Not started",
-     "start": "2026-11-08",
-     "end": "2026-11-08",
+     "start": "2026-11-25",
+     "end": "2026-11-25",
      "responsible": "Medison / GA-DA",
      "notes": "",
      "color": "#c45ccf"
@@ -1419,8 +1419,8 @@
      "phase": "3. UI Design & Prototyping",
      "task": "3.7 Mockup Final Revisions — Round 2",
      "status": "Not started",
-     "start": "2026-11-08",
-     "end": "2026-11-09",
+     "start": "2026-11-25",
+     "end": "2026-11-26",
      "responsible": "GA-DA",
      "notes": "",
      "color": "#c45ccf"
@@ -1430,8 +1430,8 @@
      "phase": "3. UI Design & Prototyping",
      "task": "3.8 Mockup Gate Approval",
      "status": "Not started",
-     "start": "2026-11-08",
-     "end": "2026-11-08",
+     "start": "2026-11-25",
+     "end": "2026-11-25",
      "responsible": "Medison / GA-DA",
      "notes": "Client sign-off on visual UI & prototype. Front-end build starts after this.",
      "color": "#c45ccf"
@@ -1441,8 +1441,8 @@
      "phase": "4. Map Build, Testing & Integration",
      "task": "4.1 Full Production — front-end build, CMS integration, QA & accessibility",
      "status": "Not started",
-     "start": "2026-11-08",
-     "end": "2026-11-22",
+     "start": "2026-11-25",
+     "end": "2026-12-09",
      "responsible": "GA-DA",
      "notes": "Includes internal QA & accessibility. With 4.0a/4.0b: 16 development days in total.",
      "color": "#e05c8a"
@@ -1452,8 +1452,8 @@
      "phase": "4. Map Build, Testing & Integration",
      "task": "4.2 Client QA Validation & Staging Review — Round 1",
      "status": "Not started",
-     "start": "2026-11-22",
-     "end": "2026-11-27",
+     "start": "2026-12-09",
+     "end": "2026-12-14",
      "responsible": "Medison",
      "notes": "Client tests the live map & CMS in staging.",
      "color": "#e05c8a"
@@ -1463,8 +1463,8 @@
      "phase": "4. Map Build, Testing & Integration",
      "task": "4.3 Step 4 — Round 1 touch point",
      "status": "Not started",
-     "start": "2026-11-29",
-     "end": "2026-11-29",
+     "start": "2026-12-16",
+     "end": "2026-12-16",
      "responsible": "Medison / GA-DA",
      "notes": "",
      "color": "#e05c8a"
@@ -1474,8 +1474,8 @@
      "phase": "4. Map Build, Testing & Integration",
      "task": "4.4 Adjustments & Bug Fixes",
      "status": "Not started",
-     "start": "2026-11-29",
-     "end": "2026-12-04",
+     "start": "2026-12-16",
+     "end": "2026-12-21",
      "responsible": "GA-DA",
      "notes": "",
      "color": "#e05c8a"
@@ -1485,8 +1485,8 @@
      "phase": "4. Map Build, Testing & Integration",
      "task": "4.5 Final Client Review — Round 2",
      "status": "Not started",
-     "start": "2026-12-06",
-     "end": "2026-12-07",
+     "start": "2026-12-23",
+     "end": "2026-12-24",
      "responsible": "Medison",
      "notes": "",
      "color": "#e05c8a"
@@ -1496,8 +1496,8 @@
      "phase": "4. Map Build, Testing & Integration",
      "task": "4.6 Buffer (1 working day)",
      "status": "Not started",
-     "start": "2026-12-06",
-     "end": "2026-12-06",
+     "start": "2026-12-23",
+     "end": "2026-12-23",
      "responsible": "GA-DA",
      "notes": "Reserve for slips. If nothing slipped, sign-off moves earlier.",
      "color": "#e05c8a"
@@ -1507,8 +1507,8 @@
      "phase": "4. Map Build, Testing & Integration",
      "task": "4.7 Final Production Approval & Sign-off",
      "status": "Not started",
-     "start": "2026-12-06",
-     "end": "2026-12-06",
+     "start": "2026-12-23",
+     "end": "2026-12-23",
      "responsible": "Medison / GA-DA",
      "notes": "Formal client sign-off for live deployment.",
      "color": "#e05c8a"
