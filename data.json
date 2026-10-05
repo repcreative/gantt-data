@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-05T15:23:57.417Z",
+ "updatedAt": "2026-10-05T15:24:08.391Z",
  "gantts": {
   "g_gqor970ve1": {
    "id": "g_gqor970ve1",
@@ -650,7 +650,7 @@
    "subtitle": "Discovery & Interactive Map · Revised plan, Oct 2026",
    "logo": null,
    "createdAt": "2026-09-30T22:54:10.783Z",
-   "updatedAt": "2026-10-05T15:23:54.914Z",
+   "updatedAt": "2026-10-05T15:24:05.888Z",
    "settings": {
     "usePhases": true,
     "phases": [
@@ -1287,7 +1287,7 @@
      "phase": "2. Interactive Map Structure",
      "task": "2.7 Wireframe Revisions & Updates — Round 2",
      "status": "Not started",
-     "start": "2026-10-19",
+     "start": "2026-10-18",
      "end": "2026-10-20",
      "responsible": "GA-DA",
      "notes": "",
