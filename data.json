@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-05T15:23:03.049Z",
+ "updatedAt": "2026-10-05T15:23:30.874Z",
  "gantts": {
   "g_gqor970ve1": {
    "id": "g_gqor970ve1",
@@ -650,7 +650,7 @@
    "subtitle": "Discovery & Interactive Map · Revised plan, Oct 2026",
    "logo": null,
    "createdAt": "2026-09-30T22:54:10.783Z",
-   "updatedAt": "2026-10-05T15:23:00.548Z",
+   "updatedAt": "2026-10-05T15:23:28.372Z",
    "settings": {
     "usePhases": true,
     "phases": [
@@ -1248,17 +1248,6 @@
      "responsible": "GA-DA",
      "notes": "PARALLEL with 2.2: design work that does not depend on wireframe details (brand guidelines → UI kit). Counts toward the 12 design days.",
      "color": "#c45ccf"
-    },
-    {
-     "id": 1790808850886,
-     "phase": "2. Interactive Map Structure",
-     "task": "2.3 Step 2 — Round 1 touch point",
-     "status": "Not started",
-     "start": "2026-10-11",
-     "end": "2026-10-11",
-     "responsible": "Medison / GA-DA",
-     "notes": "Meeting to go over the client's wireframe comments together.",
-     "color": "#7a5af8"
     },
     {
      "id": 1790808850887,
